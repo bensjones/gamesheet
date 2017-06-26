@@ -1,6 +1,6 @@
 # baseball gamesheet tool #
 
-***data structure***
+**data structure**
 ```
 team = {
   teamId: 1,
@@ -11,7 +11,7 @@ team = {
       number: 0,
       name: 0,
       positions: [1, 2, 5]
-      positionsOrderVals: [
+      positionWeight: [
         1: 1,
         2: 0.5,
         3: 0,
