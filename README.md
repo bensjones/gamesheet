@@ -1,4 +1,4 @@
-# baseball gamesheet tool # 
+# baseball gamesheet tool #
 
 ***data structure***
 ```
@@ -11,6 +11,17 @@ team = {
       number: 0,
       name: 0,
       positions: [1, 2, 5]
+      positionsOrderVals: [
+        1: 1,
+        2: 0.5,
+        3: 0,
+        4: 0,
+        5: 0.333,
+        6: 0,
+        7: 0,
+        8: 0,
+        9: 0,
+      ]
     }
   ],
   games: [
