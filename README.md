@@ -1,5 +1,5 @@
-# gamesheet
-baseball gamesheet tool
+# baseball gamesheet tool # 
+
 ***data structure***
 ```
 team = {
